@@ -148,19 +148,37 @@ ul {
     margin-top: 16px;
     margin-bottom: 16px;
     padding: 12px;
-    width: 100px;
+    width: 150px;
     border-radius: 4px;
     border: 2px solid #E5E7EB;
     color: #E5E7EB;
     background-color: #3882F6;
+    font-size: large;
 }
 
 .sec-four-container .left {
     flex: .60;
 }
 
+.sec-four-container h1 {
+    color: #F9FAF8;
+}
+
+.sec-four-container p {
+    color: #E5E7EB;
+}
+
 .sec-four-container .right {
     display: flex;
     flex: .30;
     justify-content: center;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: #E5E7EB;
+    height: 75px;
 }
