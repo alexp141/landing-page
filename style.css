@@ -99,7 +99,7 @@ ul {
 
 .cell img {
     width: 100%;
-    height: auto;
+    height: 75%;
     border-radius: 4px;
     border: 2px solid #3882F6;
 }
